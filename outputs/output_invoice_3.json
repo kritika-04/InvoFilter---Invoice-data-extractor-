@@ -1,0 +1,20 @@
+{
+    "invoice_number": "INV-3337",
+    "invoice_date": "25-01-2016",
+    "due_date": "31-01-2016",
+    "billed_by": "DEMO - Sliced Invoices",
+    "billed_to": "Test Business",
+    "line_items": [
+        {
+            "item": "Web Design",
+            "amount": 85.0
+        }
+    ],
+    "subtotal": 85.0,
+    "discount": null,
+    "tax_or_gst": 8.5,
+    "total_amount": 93.5,
+    "currency": "USD",
+    "payment_method": "NEFT",
+    "notes": "Payment is due within 30 days from date of invoice. Late payment is subject to fees of 5% per month. Thanks for choosing DEMO - Sliced Invoices | admin@slicedinvoices.com"
+}

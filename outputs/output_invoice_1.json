@@ -1,0 +1,32 @@
+{
+    "invoice_number": "INV-10012",
+    "invoice_date": "26-03-2021",
+    "due_date": "25-04-2021",
+    "billed_by": "Your Plumbing Co.",
+    "billed_to": "Your Client",
+    "line_items": [
+        {
+            "item": "Service Callout Fee",
+            "amount": 85.0
+        },
+        {
+            "item": "Labor",
+            "amount": 285.0
+        },
+        {
+            "item": "Parts & Materials",
+            "amount": 145.0
+        },
+        {
+            "item": "Disposal Fee",
+            "amount": 35.0
+        }
+    ],
+    "subtotal": 550.0,
+    "discount": 0.0,
+    "tax_or_gst": 44.0,
+    "total_amount": 594.0,
+    "currency": "USD",
+    "payment_method": null,
+    "notes": "Diagnosed and repaired leaking kitchen sink. Replaced shutoff valve. Please pay within 30 days using the link in your invoice email."
+}

@@ -1,0 +1,20 @@
+{
+    "invoice_number": "TEST01",
+    "invoice_date": "15-06-2020",
+    "due_date": null,
+    "billed_by": "Amy Fare",
+    "billed_to": "Jane Doe",
+    "line_items": [
+        {
+            "item": "Tutoring (1 hr)",
+            "amount": 20.0
+        }
+    ],
+    "subtotal": 20.0,
+    "discount": 5.0,
+    "tax_or_gst": null,
+    "total_amount": 15.0,
+    "currency": "USD",
+    "payment_method": "E-transfer / Paypal",
+    "notes": "Payment due upon receipt of services"
+}
